@@ -1,0 +1,161 @@
+# run 1000ns
+[DRV] : RESET DONE
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+xsim: Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 1657.234 ; gain = 11.684
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:08 ; elapsed = 00:00:18 . Memory (MB): peak = 1657.234 ; gain = 11.684
